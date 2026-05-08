@@ -33,8 +33,8 @@ Distintivo focado no manuseio de equipamentos, armas e ferramentas
 > Evasão inicial: 9
 > PV inicial: 7
 > Gaste 3 de Vontade para concertar a armadura sua ou de algum aliado, sem necessidade de descanso.
-# Vigarista
-Distintivo focado em prestígio
+# Neuro-técnico
+Distintivo focado em neuromania
 > Evasão inicial: 10
 > PV inicial: 6
-> Gaste 3 de Vontade para conseguir um item, ferramenta, arma ou armadura de algum contato que chegará no inventário ao retornar.
+> Gaste 3 de Vontade para encontrar uma falha em uma rede neural, podendo expandir a sua própria por 1d3 rodadas.
