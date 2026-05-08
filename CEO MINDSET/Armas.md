@@ -1,5 +1,6 @@
 > Nome: Unari
 > #armas-de-mão #pistola #auxiliar
+> Auxílio: +1[+] ao disparar em um alvo em 1hxs de alcance.
 > Munição: 2
 > Alcance: Cone 3hxs
 > Dano: 1d6+1d3 (2 máximo)
@@ -9,7 +10,7 @@
 
 ---
 > Nome: Five-Seven
-> #armas-de-mão #pistola #auxiliar 
+> #armas-de-mão #pistola #moderado
 > Munição: 3
 > Alcance: Linha 7hxs
 > Dano: 2d6+1
